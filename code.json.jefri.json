@@ -1,0 +1,805 @@
+{
+    "Data_CCTV, Data_Google Maps, Data_Media Sosial, Data_Portal Berita":
+[
+    {
+        "id": 1,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:01:00",
+        "lokasi": "Titik CCTV 1",
+        "detail": "21 orang terpantau",
+        "kondisi": "Padat"
+    },
+    {
+        "id": 2,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:02:00",
+        "lokasi": "Titik CCTV 2",
+        "detail": "22 orang terpantau",
+        "kondisi": "Terkendali"
+    },
+    {
+        "id": 3,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:03:00",
+        "lokasi": "Titik CCTV 3",
+        "detail": "23 orang terpantau",
+        "kondisi": "Padat"
+    },
+    {
+        "id": 4,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:04:00",
+        "lokasi": "Titik CCTV 4",
+        "detail": "24 orang terpantau",
+        "kondisi": "Terkendali"
+    },
+    {
+        "id": 5,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:05:00",
+        "lokasi": "Titik CCTV 5",
+        "detail": "25 orang terpantau",
+        "kondisi": "Padat"
+    },
+    {
+        "id": 6,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:06:00",
+        "lokasi": "Titik CCTV 6",
+        "detail": "26 orang terpantau",
+        "kondisi": "Terkendali"
+    },
+    {
+        "id": 7,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:07:00",
+        "lokasi": "Titik CCTV 7",
+        "detail": "27 orang terpantau",
+        "kondisi": "Padat"
+    },
+    {
+        "id": 8,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:08:00",
+        "lokasi": "Titik CCTV 8",
+        "detail": "28 orang terpantau",
+        "kondisi": "Terkendali"
+    },
+    {
+        "id": 9,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:09:00",
+        "lokasi": "Titik CCTV 9",
+        "detail": "29 orang terpantau",
+        "kondisi": "Padat"
+    },
+    {
+        "id": 10,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:10:00",
+        "lokasi": "Titik CCTV 10",
+        "detail": "30 orang terpantau",
+        "kondisi": "Terkendali"
+    },
+    {
+        "id": 11,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:11:00",
+        "lokasi": "Titik CCTV 11",
+        "detail": "31 orang terpantau",
+        "kondisi": "Padat"
+    },
+    {
+        "id": 12,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:12:00",
+        "lokasi": "Titik CCTV 12",
+        "detail": "32 orang terpantau",
+        "kondisi": "Terkendali"
+    },
+    {
+        "id": 13,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:13:00",
+        "lokasi": "Titik CCTV 13",
+        "detail": "33 orang terpantau",
+        "kondisi": "Padat"
+    },
+    {
+        "id": 14,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:14:00",
+        "lokasi": "Titik CCTV 14",
+        "detail": "34 orang terpantau",
+        "kondisi": "Terkendali"
+    },
+    {
+        "id": 15,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:15:00",
+        "lokasi": "Titik CCTV 15",
+        "detail": "35 orang terpantau",
+        "kondisi": "Padat"
+    },
+    {
+        "id": 16,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:16:00",
+        "lokasi": "Titik CCTV 16",
+        "detail": "36 orang terpantau",
+        "kondisi": "Terkendali"
+    },
+    {
+        "id": 17,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:17:00",
+        "lokasi": "Titik CCTV 17",
+        "detail": "37 orang terpantau",
+        "kondisi": "Padat"
+    },
+    {
+        "id": 18,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:18:00",
+        "lokasi": "Titik CCTV 18",
+        "detail": "38 orang terpantau",
+        "kondisi": "Terkendali"
+    },
+    {
+        "id": 19,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:19:00",
+        "lokasi": "Titik CCTV 19",
+        "detail": "39 orang terpantau",
+        "kondisi": "Padat"
+    },
+    {
+        "id": 20,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:20:00",
+        "lokasi": "Titik CCTV 20",
+        "detail": "40 orang terpantau",
+        "kondisi": "Terkendali"
+    },
+    {
+        "id": 21,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:21:00",
+        "lokasi": "Titik CCTV 21",
+        "detail": "41 orang terpantau",
+        "kondisi": "Padat"
+    },
+    {
+        "id": 22,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:22:00",
+        "lokasi": "Titik CCTV 22",
+        "detail": "42 orang terpantau",
+        "kondisi": "Terkendali"
+    },
+    {
+        "id": 23,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:23:00",
+        "lokasi": "Titik CCTV 23",
+        "detail": "43 orang terpantau",
+        "kondisi": "Padat"
+    },
+    {
+        "id": 24,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:24:00",
+        "lokasi": "Titik CCTV 24",
+        "detail": "44 orang terpantau",
+        "kondisi": "Terkendali"
+    },
+    {
+        "id": 25,
+        "sumber": "CCTV",
+        "waktu": "2025-09-19 09:25:00",
+        "lokasi": "Titik CCTV 25",
+        "detail": "45 orang terpantau",
+        "kondisi": "Padat"
+    },
+    {
+        "id": 26,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:01:00",
+        "lokasi": "Koordinat-26",
+        "detail": "41 orang terlihat",
+        "kondisi": "Macet"
+    },
+    {
+        "id": 27,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:02:00",
+        "lokasi": "Koordinat-27",
+        "detail": "42 orang terlihat",
+        "kondisi": "Lancar"
+    },
+    {
+        "id": 28,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:03:00",
+        "lokasi": "Koordinat-28",
+        "detail": "43 orang terlihat",
+        "kondisi": "Macet"
+    },
+    {
+        "id": 29,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:04:00",
+        "lokasi": "Koordinat-29",
+        "detail": "44 orang terlihat",
+        "kondisi": "Lancar"
+    },
+    {
+        "id": 30,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:05:00",
+        "lokasi": "Koordinat-30",
+        "detail": "45 orang terlihat",
+        "kondisi": "Macet"
+    },
+    {
+        "id": 31,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:06:00",
+        "lokasi": "Koordinat-31",
+        "detail": "46 orang terlihat",
+        "kondisi": "Lancar"
+    },
+    {
+        "id": 32,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:07:00",
+        "lokasi": "Koordinat-32",
+        "detail": "47 orang terlihat",
+        "kondisi": "Macet"
+    },
+    {
+        "id": 33,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:08:00",
+        "lokasi": "Koordinat-33",
+        "detail": "48 orang terlihat",
+        "kondisi": "Lancar"
+    },
+    {
+        "id": 34,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:09:00",
+        "lokasi": "Koordinat-34",
+        "detail": "49 orang terlihat",
+        "kondisi": "Macet"
+    },
+    {
+        "id": 35,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:10:00",
+        "lokasi": "Koordinat-35",
+        "detail": "50 orang terlihat",
+        "kondisi": "Lancar"
+    },
+    {
+        "id": 36,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:11:00",
+        "lokasi": "Koordinat-36",
+        "detail": "51 orang terlihat",
+        "kondisi": "Macet"
+    },
+    {
+        "id": 37,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:12:00",
+        "lokasi": "Koordinat-37",
+        "detail": "52 orang terlihat",
+        "kondisi": "Lancar"
+    },
+    {
+        "id": 38,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:13:00",
+        "lokasi": "Koordinat-38",
+        "detail": "53 orang terlihat",
+        "kondisi": "Macet"
+    },
+    {
+        "id": 39,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:14:00",
+        "lokasi": "Koordinat-39",
+        "detail": "54 orang terlihat",
+        "kondisi": "Lancar"
+    },
+    {
+        "id": 40,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:15:00",
+        "lokasi": "Koordinat-40",
+        "detail": "55 orang terlihat",
+        "kondisi": "Macet"
+    },
+    {
+        "id": 41,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:16:00",
+        "lokasi": "Koordinat-41",
+        "detail": "56 orang terlihat",
+        "kondisi": "Lancar"
+    },
+    {
+        "id": 42,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:17:00",
+        "lokasi": "Koordinat-42",
+        "detail": "57 orang terlihat",
+        "kondisi": "Macet"
+    },
+    {
+        "id": 43,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:18:00",
+        "lokasi": "Koordinat-43",
+        "detail": "58 orang terlihat",
+        "kondisi": "Lancar"
+    },
+    {
+        "id": 44,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:19:00",
+        "lokasi": "Koordinat-44",
+        "detail": "59 orang terlihat",
+        "kondisi": "Macet"
+    },
+    {
+        "id": 45,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:20:00",
+        "lokasi": "Koordinat-45",
+        "detail": "60 orang terlihat",
+        "kondisi": "Lancar"
+    },
+    {
+        "id": 46,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:21:00",
+        "lokasi": "Koordinat-46",
+        "detail": "61 orang terlihat",
+        "kondisi": "Macet"
+    },
+    {
+        "id": 47,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:22:00",
+        "lokasi": "Koordinat-47",
+        "detail": "62 orang terlihat",
+        "kondisi": "Lancar"
+    },
+    {
+        "id": 48,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:23:00",
+        "lokasi": "Koordinat-48",
+        "detail": "63 orang terlihat",
+        "kondisi": "Macet"
+    },
+    {
+        "id": 49,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:24:00",
+        "lokasi": "Koordinat-49",
+        "detail": "64 orang terlihat",
+        "kondisi": "Lancar"
+    },
+    {
+        "id": 50,
+        "sumber": "Google Maps",
+        "waktu": "2025-09-19 10:25:00",
+        "lokasi": "Koordinat-50",
+        "detail": "65 orang terlihat",
+        "kondisi": "Macet"
+    },
+    {
+        "id": 51,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:01:30",
+        "lokasi": "Platform-tiktok",
+        "detail": "Posting terkait demo ke-1",
+        "kondisi": "Normal"
+    },
+    {
+        "id": 52,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:02:30",
+        "lokasi": "Platform-tiktok",
+        "detail": "Posting terkait demo ke-2",
+        "kondisi": "Viral"
+    },
+    {
+        "id": 53,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:03:30",
+        "lokasi": "Platform-tiktok",
+        "detail": "Posting terkait demo ke-3",
+        "kondisi": "Normal"
+    },
+    {
+        "id": 54,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:04:30",
+        "lokasi": "Platform-instagram",
+        "detail": "Posting terkait demo ke-4",
+        "kondisi": "Viral"
+    },
+    {
+        "id": 55,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:05:30",
+        "lokasi": "Platform-tiktok",
+        "detail": "Posting terkait demo ke-5",
+        "kondisi": "Normal"
+    },
+    {
+        "id": 56,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:06:30",
+        "lokasi": "Platform-X",
+        "detail": "Posting terkait demo ke-6",
+        "kondisi": "Viral"
+    },
+    {
+        "id": 57,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:07:30",
+        "lokasi": "Platform-X",
+        "detail": "Posting terkait demo ke-7",
+        "kondisi": "Normal"
+    },
+    {
+        "id": 58,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:08:30",
+        "lokasi": "Platform-tiktok",
+        "detail": "Posting terkait demo ke-8",
+        "kondisi": "Viral"
+    },
+    {
+        "id": 59,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:09:30",
+        "lokasi": "Platform-instagram",
+        "detail": "Posting terkait demo ke-9",
+        "kondisi": "Normal"
+    },
+    {
+        "id": 60,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:10:30",
+        "lokasi": "Platform-X",
+        "detail": "Posting terkait demo ke-10",
+        "kondisi": "Viral"
+    },
+    {
+        "id": 61,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:11:30",
+        "lokasi": "Platform-X",
+        "detail": "Posting terkait demo ke-11",
+        "kondisi": "Normal"
+    },
+    {
+        "id": 62,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:12:30",
+        "lokasi": "Platform-X",
+        "detail": "Posting terkait demo ke-12",
+        "kondisi": "Viral"
+    },
+    {
+        "id": 63,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:13:30",
+        "lokasi": "Platform-X",
+        "detail": "Posting terkait demo ke-13",
+        "kondisi": "Normal"
+    },
+    {
+        "id": 64,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:14:30",
+        "lokasi": "Platform-X",
+        "detail": "Posting terkait demo ke-14",
+        "kondisi": "Viral"
+    },
+    {
+        "id": 65,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:15:30",
+        "lokasi": "Platform-X",
+        "detail": "Posting terkait demo ke-15",
+        "kondisi": "Normal"
+    },
+    {
+        "id": 66,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:16:30",
+        "lokasi": "Platform-tiktok",
+        "detail": "Posting terkait demo ke-16",
+        "kondisi": "Viral"
+    },
+    {
+        "id": 67,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:17:30",
+        "lokasi": "Platform-X",
+        "detail": "Posting terkait demo ke-17",
+        "kondisi": "Normal"
+    },
+    {
+        "id": 68,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:18:30",
+        "lokasi": "Platform-X",
+        "detail": "Posting terkait demo ke-18",
+        "kondisi": "Viral"
+    },
+    {
+        "id": 69,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:19:30",
+        "lokasi": "Platform-X",
+        "detail": "Posting terkait demo ke-19",
+        "kondisi": "Normal"
+    },
+    {
+        "id": 70,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:20:30",
+        "lokasi": "Platform-tiktok",
+        "detail": "Posting terkait demo ke-20",
+        "kondisi": "Viral"
+    },
+    {
+        "id": 71,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:21:30",
+        "lokasi": "Platform-instagram",
+        "detail": "Posting terkait demo ke-21",
+        "kondisi": "Normal"
+    },
+    {
+        "id": 72,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:22:30",
+        "lokasi": "Platform-instagram",
+        "detail": "Posting terkait demo ke-22",
+        "kondisi": "Viral"
+    },
+    {
+        "id": 73,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:23:30",
+        "lokasi": "Platform-X",
+        "detail": "Posting terkait demo ke-23",
+        "kondisi": "Normal"
+    },
+    {
+        "id": 74,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:24:30",
+        "lokasi": "Platform-tiktok",
+        "detail": "Posting terkait demo ke-24",
+        "kondisi": "Viral"
+    },
+    {
+        "id": 75,
+        "sumber": "Media Sosial",
+        "waktu": "2025-09-19 10:25:30",
+        "lokasi": "Platform-X",
+        "detail": "Posting terkait demo ke-25",
+        "kondisi": "Normal"
+    },
+    {
+        "id": 76,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:01:45",
+        "lokasi": "Media-TV one",
+        "detail": "Berita update ke-1",
+        "kondisi": "Aman"
+    },
+    {
+        "id": 77,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:02:45",
+        "lokasi": "Media-TV one",
+        "detail": "Berita update ke-2",
+        "kondisi": "Tegang"
+    },
+    {
+        "id": 78,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:03:45",
+        "lokasi": "Media-TV one",
+        "detail": "Berita update ke-3",
+        "kondisi": "Aman"
+    },
+    {
+        "id": 79,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:04:45",
+        "lokasi": "Media-TV one",
+        "detail": "Berita update ke-4",
+        "kondisi": "Tegang"
+    },
+    {
+        "id": 80,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:05:45",
+        "lokasi": "Media-TV one",
+        "detail": "Berita update ke-5",
+        "kondisi": "Aman"
+    },
+    {
+        "id": 81,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:06:45",
+        "lokasi": "Media-TV one",
+        "detail": "Berita update ke-6",
+        "kondisi": "Tegang"
+    },
+    {
+        "id": 82,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:07:45",
+        "lokasi": "Media-TV one",
+        "detail": "Berita update ke-7",
+        "kondisi": "Aman"
+    },
+    {
+        "id": 83,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:08:45",
+        "lokasi": "Media-TV one",
+        "detail": "Berita update ke-8",
+        "kondisi": "Tegang"
+    },
+    {
+        "id": 84,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:09:45",
+        "lokasi": "Media-TV one",
+        "detail": "Berita update ke-9",
+        "kondisi": "Aman"
+    },
+    {
+        "id": 85,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:10:45",
+        "lokasi": "Media-TV one",
+        "detail": "Berita update ke-10",
+        "kondisi": "Tegang"
+    },
+    {
+        "id": 86,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:11:45",
+        "lokasi": "Media-TV one",
+        "detail": "Berita update ke-11",
+        "kondisi": "Aman"
+    },
+    {
+        "id": 87,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:12:45",
+        "lokasi": "Media-TV one",
+        "detail": "Berita update ke-12",
+        "kondisi": "Tegang"
+    },
+    {
+        "id": 88,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:13:45",
+        "lokasi": "Media-TV one",
+        "detail": "Berita update ke-13",
+        "kondisi": "Aman"
+    },
+    {
+        "id": 89,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:14:45",
+        "lokasi": "Media-TV one",
+        "detail": "Berita update ke-14",
+        "kondisi": "Tegang"
+    },
+    {
+        "id": 90,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:15:45",
+        "lokasi": "Media-MNCTV",
+        "detail": "Berita update ke-15",
+        "kondisi": "Aman"
+    },
+    {
+        "id": 91,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:16:45",
+        "lokasi": "Media-MNCTV",
+        "detail": "Berita update ke-16",
+        "kondisi": "Tegang"
+    },
+    {
+        "id": 92,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:17:45",
+        "lokasi": "Media-MNCTV",
+        "detail": "Berita update ke-17",
+        "kondisi": "Aman"
+    },
+    {
+        "id": 93,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:18:45",
+        "lokasi": "Media-MNCTV",
+        "detail": "Berita update ke-18",
+        "kondisi": "Tegang"
+    },
+    {
+        "id": 94,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:19:45",
+        "lokasi": "Media-MNCTV",
+        "detail": "Berita update ke-19",
+        "kondisi": "Aman"
+    },
+    {
+        "id": 95,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:20:45",
+        "lokasi": "Media-MNCTV",
+        "detail": "Berita update ke-20",
+        "kondisi": "Tegang"
+    },
+    {
+        "id": 96,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:21:45",
+        "lokasi": "Media-MNCTV",
+        "detail": "Berita update ke-21",
+        "kondisi": "Aman"
+    },
+    {
+        "id": 97,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:22:45",
+        "lokasi": "Media-MNCTV",
+        "detail": "Berita update ke-22",
+        "kondisi": "Tegang"
+    },
+    {
+        "id": 98,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:23:45",
+        "lokasi": "Media-MNCTV",
+        "detail": "Berita update ke-23",
+        "kondisi": "Aman"
+    },
+    {
+        "id": 99,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:24:45",
+        "lokasi": "Media-MNCTV",
+        "detail": "Berita update ke-24",
+        "kondisi": "Tegang"
+    },
+    {
+        "id": 100,
+        "sumber": "Portal Berita",
+        "waktu": "2025-09-19 11:25:45",
+        "lokasi": "Media-MNCTV",
+        "detail": "Berita update ke-25",
+        "kondisi": "Aman"
+    }
+]
+}
